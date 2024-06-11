@@ -25,6 +25,7 @@
 
 # Visual Studio cache directory
 .vs/
+.idea/
 
 # Gradle cache directory
 .gradle/
@@ -61,7 +62,7 @@ sysinfo.txt
 *.unitypackage
 *.app
 
-# Crashlytics generated file
+# Crashlytics º file
 crashlytics-build.properties
 
 # Packed Addressables
